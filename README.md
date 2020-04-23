@@ -1,5 +1,7 @@
 # README
 
+![conductor UI walkthrough](https://github.com/andrewmcodes/conductor_demo/raw/master/docs/walkthrough.gif)
+
 ## Prerequisites
 
 The setups steps expect following tools installed on the system.
